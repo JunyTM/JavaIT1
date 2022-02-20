@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d8cdaf-7d11-401c-855c-15e5b9912eb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bai2/Bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap/Bai1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai2/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baitap/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baitap/Bai1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="25HEVxFXG3HeW61Jwglq3KyILkb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Application.Bai2">
+  <component name="RunManager" selected="Application.Bai1">
     <configuration name="Bai1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baitap.Bai1" />
       <module name="JavaIT1" />
