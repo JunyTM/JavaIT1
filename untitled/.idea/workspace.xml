@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b4325a8-026d-4111-8901-8a43547de726" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/com/company/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/GroupAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/GroupAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/com/company/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28HTe5PTbPcLRyFmUWHnbRJmqIN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b4325a8-026d-4111-8901-8a43547de726" name="Changes" comment="" />
+      <created>1650872606154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650872606154</updated>
+    </task>
+    <servers />
+  </component>
+</project>
