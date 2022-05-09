@@ -1,4 +1,4 @@
-package com.company;
+package bai5;
 
 public class Main {
 
